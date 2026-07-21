@@ -83,7 +83,7 @@ Through these projects, I practiced:
 - React Project Structure
 - Git & GitHub Workflow
 
----
+---c
 
 ## 👨‍💻 Author
 

@@ -4,9 +4,7 @@ A simple React stopwatch application built using React Hooks.
 
 ## Screenshot
 
-```markdown
 ![Stopwatch](assets/stopwatch.png)
-```
 
 ---
 
